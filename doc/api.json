@@ -1,0 +1,27 @@
+{
+    "auth": {
+        "uuid": "038077a4-5cd1-489b-bdd3-1260a814acfe",
+        "email": "user@example.com",
+        "password": "hashedPassword",
+        "firstName": "John",
+        "lastName": "Doe",
+        "accessToken": "accessTokenBalue",
+        "expiresIn": 900,
+        "message": "if there is an error",
+        "validation": {
+            "code": 123456,
+            "expiresIn": "2024-03-19T18:25:21.206Z",
+            "message": "case error"
+        },
+        "user": {
+            "uuid": "uuid-123",
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "user@example.com",
+            "message": "if there is an error"
+        }
+    },
+    "exception": {
+        "message": "message of exception"
+    }
+}
